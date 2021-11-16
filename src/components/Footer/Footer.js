@@ -15,8 +15,7 @@ export default class Footer extends Component {
                                 </svg>
                             </a>
                         </li>
-                    </ul>
-                    <ul>
+                    
                         <li>
                             <a href="https://www.github.com/ALTbruno" target="_blank">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#E9EAEC" class="bi bi-github" viewBox="0 0 16 16">
@@ -24,8 +23,7 @@ export default class Footer extends Component {
                                 </svg>
                             </a>
                         </li>
-                    </ul>
-                    <ul>
+
                         <li>
                             <a href="mailto:brb.dev@outlook.com" target="_blank">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#E9EAEC" class="bi bi-envelope-fill" viewBox="0 0 16 16">
