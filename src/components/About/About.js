@@ -12,10 +12,7 @@ export default class About extends Component{
                 </div>
                 <div class="about-me-text">
                     <p>
-                        Desenvolvedor Full Stack
-                        fklemdlfkcn lcsn alsnclandlkA
-                        AKDMASALKDÇSFHINCÇJSANCÇ;ASJNC
-                        S.CXBS KHCBSAJ.CHB SA.KVCHASBCBJS
+                        Hello there! Eu sou o Bruno, um Desenvolvedor Full Stack em ~desenvolvimento. Gosto de ler e aprender coisas novas, Vamos tomar um café?
                     </p>
                 </div>
             </div>
