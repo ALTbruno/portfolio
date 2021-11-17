@@ -1,4 +1,4 @@
-# Veja o site em funcionamento: hhttps://portfolio-altbruno.vercel.app/
+# Veja o site em funcionamento: https://portfolio-altbruno.vercel.app/
 
 ## Instruções e requisitos do entregável	
 	
